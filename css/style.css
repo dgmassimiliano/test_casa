@@ -1,0 +1,29 @@
+@media (min-width: 992px){
+#header-separator {
+    visibility: hidden;
+}
+}
+
+#header-separator {
+    background-color: rgb(0, 76.5, 153);
+    height: 5px;
+}
+
+.it-header-center-wrapper {
+    background-color: white;
+}
+
+#burger {
+    fill: rgb(0, 76.5, 153);
+}  
+
+  .col-name { width: 165px; }
+  .col-supplier { width: 126px; }
+  .col-purpose { width: 124px; }
+  .col-expiry { width: 98px; }
+  .col-type { width: 186px; }
+
+  .col-supplier-alt { width: 125px; }
+  .col-purpose-alt { width: 107px; }
+  .col-expiry-alt { width: 132px; }
+  .col-type-alt { width: 170px; }

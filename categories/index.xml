@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CASA</title>
+    <link>https://dgmassimiliano.github.io/casa/categories/</link>
+    <description>Recent content in Categories on CASA</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <atom:link href="https://dgmassimiliano.github.io/casa/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
