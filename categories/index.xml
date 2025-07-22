@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CASA</title>
-    <link>https://dgmassimiliano.github.io/test_casa//categories/</link>
+    <link>https://dgmassimiliano.github.io/test_casa/categories/</link>
     <description>Recent content in Categories on CASA</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <atom:link href="https://dgmassimiliano.github.io/test_casa//categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dgmassimiliano.github.io/test_casa/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

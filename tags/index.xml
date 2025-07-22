@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CASA</title>
-    <link>https://dgmassimiliano.github.io/test_casa//tags/</link>
+    <link>https://dgmassimiliano.github.io/test_casa/tags/</link>
     <description>Recent content in Tags on CASA</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <atom:link href="https://dgmassimiliano.github.io/test_casa//tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dgmassimiliano.github.io/test_casa/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
